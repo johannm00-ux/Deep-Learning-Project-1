@@ -1,0 +1,28 @@
+# Python & Bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Checkpoints
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# Data & Large Archives
+catdog_data/
+catdog_data.zip
+*.tar.gz
+
+# Local virtual environments
+.venv/
+env/
+venv/
+ENV/
+
+# Output plots (optional: can be committed if desired)
+# learning_curves.png
+# confusion_matrix.png
+# misclassifications.png
+# feature_maps.png
